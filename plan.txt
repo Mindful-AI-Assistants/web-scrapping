@@ -1,0 +1,90 @@
+sites to scrape:
+Afghanistan:
+•https://thekabultimes.com/category/e-paper/ Kabul Times
+
+Austria:
+•https://anno.onb.ac.at/alph_list.htm
+
+Thailand:
+The Phuket News Archive: https://www.thephuketnews.com/archive.php?page=1 (The Phuket News)
+change the directory name of the current thailand directory (Thaiger)
+•http://digital.nlt.go.th/dlib/items/show/19495?collection=32
+
+Chile:
+•https://elpinguino.com/digital/ from https://elpinguino.com/digital/index/2008/07 onwards El Pingüino
+•https://www.eha.cl/edicion/2014/3 el heraldo
+•el tipografio https://eltipografo.cl/digital/archivo
+•el divisadero https://www.eldivisadero.cl/papel_digital_historial?p=83
+•la discusion https://papel.ladiscusion.cl//
+•publimetro https://www.readmetro.com/es/chile/santiago/archive/
+•anglophone chile https://news-archive.anglophonechile.org/collections/browse
+
+China:
+•http://data.people.com.cn/rmrb/20240704/1?code=2 renmin ribao
+
+Switzerland:
+•http://doc.rero.ch/search?cc=PRESS&ln=en rero doc 200k+ newspapers
+https://doc.rero.ch/?ln=en this is the main page with the other content
+
+France:
+•http://mercurefrancois.ehess.fr
+
+Mexico:
+•https://www.excelsior.com.mx/impreso
+•https://www.readmetro.com/es/mexico/publimetro/20241213/ mexico
+Brasil 
+Canadá
+Canadá 
+Chile
+Chile 
+Colombia
+Colombia 
+Ecuador
+Ecuador 
+Guatemala
+Guatemala 
+Italia         PUBLIMETRO is in all of these countries here is the link :https://www.readmetro.com/es/
+Italia 
+México
+México 
+Perú
+Perú 
+ Puerto Rico
+Puerto Rico 
+Rusia
+Rusia 
+EE. UU.
+EE. UU. 
+Argentina
+Argentina  
+
+
+Peru:
+•https://undiario.pe/hemeroteca/archivo/la-union 2 newspapers
+
+
+Large Archives:
+https://onlinebooks.library.upenn.edu/webbin/serial?id=istaniktiderg
+
+Ireland:
+•http://www.trinitynewsarchive.ie/pdf/ Trinity's student newspaper 1953-1970
+
+Serbia:
+•https://pretraziva.rs/browse
+
+Spain:
+•https://elpais.com/hemeroteca/elpais/portadas/1976/
+•https://elpais.com/hemeroteca/el-pais-semanal/portadas/1976/
+•https://elpais.com/hemeroteca/elviajero/portadas/1999/
+Russia:
+•https://portal-kultura.ru/archive/year/2019/
+•https://ogv.karelia.ru/catalog.shtml
+•https://magmetall.ru/news/archive/?dy=1935&dm=12&dd=05
+•https://www.booksite.ru/avia/index.htm
+
+United Kingdom:
+•https://freepressarchive.com/issues/archives.html
+
+United States:
+•https://www.lib.uidaho.edu/digital/argonaut/years.html
+•https://www.wsmrhistoric.com
